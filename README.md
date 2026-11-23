@@ -84,7 +84,7 @@ Para cada problema encontrado, registre:
 
 | Nº | Tela/Funcionalidade | Ação realizada | Problema identificado | Solução proposta |
 |---|---|---|---|---|
-| 1 | | | | |
+| 1 | **Cadastro** | Criar uma nova conta preenchendo todos os campos corretamente. | Após clicar em criar conta, o sistema não apresenta nenhuma confirmação de que o cadastro foi concluído. | Exibir uma mensagem de sucesso, como "Cadastro realizado com sucesso!". |
 | 2 | | | | |
 | 3 | | | | |
 | 4 | | | | |
