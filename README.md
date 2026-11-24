@@ -85,13 +85,13 @@ Para cada problema encontrado, registre:
 | Nº | Tela/Funcionalidade | Ação realizada | Problema identificado | Solução proposta |
 |---|---|---|---|---|
 | 1 | **Cadastro** | Criar uma nova conta preenchendo todos os campos corretamente. | Após clicar em criar conta, o sistema não apresenta nenhuma confirmação de que o cadastro foi concluído. | Exibir uma mensagem de sucesso, como "Cadastro realizado com sucesso!". |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
+| 2 | Cadastro | Tentar cadastrar uma conta utilizando senhas diferentes na confirmação. | O sistema não informa por que o cadastro não foi realizado. | Exibir uma mensagem explicando que as senhas não coincidem. |
+| 3 | Login | Tentar entrar utilizando um e-mail cadastrado e uma senha incorreta. | O sistema não apresenta nenhuma mensagem informando que as credenciais estão incorretas. | Exibir uma mensagem de erro informando que o e-mail ou a senha estão incorretos. |
+| 4 | Favoritos | Clicar no ícone de coração para adicionar um produto aos favoritos. | O ícone não muda de aparência e o sistema não informa se o produto foi adicionado. | Alterar a aparência do coração e apresentar uma mensagem confirmando a adição aos favoritos. |
+| 5 | Carrinho de compras | Adicionar um produto ao carrinho. | Após clicar em "Adicionar ao carrinho", não aparece nenhuma confirmação e o contador do carrinho não é atualizado. | Atualizar o contador do carrinho e exibir uma mensagem confirmando que o produto foi adicionado. |
+| 6 | Carrinho de compras | Aumentar ou diminuir a quantidade de um produto. | A quantidade e o valor total não são atualizados imediatamente na tela. | Atualizar automaticamente a quantidade, o subtotal e o valor total após cada alteração. |
+| 7 | Finalização da compra | Clicar em "Confirmar pedido" para finalizar a compra. | Não aparece nenhuma confirmação de conclusão. O usuário permanece na tela de pagamento sem saber se a operação foi realizada. | Exibir uma tela de confirmação com o número do pedido, o valor total e uma mensagem de sucesso. |
+| 8 | Pagamento | Selecionar PIX como forma de pagamento. | A interface apenas oculta os campos do cartão, sem apresentar informações sobre como o pagamento por PIX funcionará. | Exibir as instruções e o status da opção de pagamento selecionada. |
 
 ---
 
