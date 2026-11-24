@@ -8,51 +8,51 @@
 
 ## 1. Cadastro e Login
 
-- [ ] Criar uma nova conta.
-- [ ] Tentar cadastrar uma conta com dados inválidos.
-- [ ] Fazer login com os dados corretos.
-- [ ] Tentar fazer login com senha incorreta.
+- [x] Criar uma nova conta.
+- [x] Tentar cadastrar uma conta com dados inválidos.
+- [x] Fazer login com os dados corretos.
+- [x] Tentar fazer login com senha incorreta.
 - [ ] Sair da conta e entrar novamente.
 
 ## 2. Navegação e Pesquisa
 
-- [ ] Pesquisar um produto pelo nome.
-- [ ] Pesquisar um produto que não existe.
-- [ ] Aplicar filtros no catálogo.
-- [ ] Alterar a ordenação dos produtos.
-- [ ] Navegar entre diferentes produtos.
+- [x] Pesquisar um produto pelo nome.
+- [x] Pesquisar um produto que não existe.
+- [x] Aplicar filtros no catálogo.
+- [x] Alterar a ordenação dos produtos.
+- [x] Navegar entre diferentes produtos.
 
 ## 3. Produtos e Favoritos
 
-- [ ] Abrir os detalhes de um produto.
-- [ ] Adicionar um produto aos favoritos.
-- [ ] Remover um produto dos favoritos.
-- [ ] Adicionar diferentes produtos ao carrinho.
-- [ ] Adicionar o mesmo produto mais de uma vez.
+- [x] Abrir os detalhes de um produto.
+- [x] Adicionar um produto aos favoritos.
+- [x] Remover um produto dos favoritos.
+- [x] Adicionar diferentes produtos ao carrinho.
+- [x] Adicionar o mesmo produto mais de uma vez.
 
 ## 4. Carrinho de Compras
 
-- [ ] Abrir o carrinho.
-- [ ] Aumentar a quantidade de um produto.
-- [ ] Diminuir a quantidade de um produto.
-- [ ] Remover um produto do carrinho.
-- [ ] Conferir o valor total da compra.
+- [x] Abrir o carrinho.
+- [x] Aumentar a quantidade de um produto.
+- [x] Diminuir a quantidade de um produto.
+- [x] Remover um produto do carrinho.
+- [x] Conferir o valor total da compra.
 
 ## 5. Finalização da Compra
 
-- [ ] Iniciar o processo de checkout.
-- [ ] Preencher os dados de entrega.
-- [ ] Tentar continuar com campos incompletos.
-- [ ] Selecionar uma forma de pagamento.
-- [ ] Finalizar a compra simulada.
-- [ ] Verificar se existe confirmação do pedido.
+- [x] Iniciar o processo de checkout.
+- [x] Preencher os dados de entrega.
+- [x] Tentar continuar com campos incompletos.
+- [x] Selecionar uma forma de pagamento.
+- [x] Finalizar a compra simulada.
+- [x] Verificar se existe confirmação do pedido.
 
 ## 6. Conta e Pedidos
 
-- [ ] Consultar os dados da conta.
-- [ ] Procurar o histórico de pedidos.
-- [ ] Verificar as informações de uma compra.
-- [ ] Tentar identificar o status do pedido.
+- [x] Consultar os dados da conta.
+- [x] Procurar o histórico de pedidos.
+- [x] Verificar as informações de uma compra.
+- [x] Tentar identificar o status do pedido.
 
 ---
 
